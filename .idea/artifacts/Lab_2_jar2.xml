@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Lab_2:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab_2_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="Lab_2.jar">
+        <element id="module-output" name="Lab_2" />
+      </element>
+      <element id="file-copy" path="$USER_HOME$/Downloads/Pokemon.jar" />
+    </root>
+  </artifact>
+</component>
